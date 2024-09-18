@@ -1,3 +1,5 @@
+![Screenshot 2024-09-18 190417](https://github.com/user-attachments/assets/73973eb1-80d0-4e61-9916-c081491543e3)
+
 The application helps Users get the audio of social media and YouTube videos in audio form only. It also allows for video streaming. The project was supposed to be handled by a group of people, but it turned out that I did it singlehandedly. My focus was to develop a web application that helps me get the audio of the videos that I want to watch without having to utilize several gigabytes while watching the video, especially for videos in which the entire message is conveyed without depending on the pictorial views.
 
 I love listening to music, and some of this music is in video form. Except for using Spotify, Audiomack, etc., my next option is music videos. Hence, when the need to build a Portfolio Project came up, I decided to use the ample opportunity to satisfy my want.
