@@ -6,7 +6,9 @@ The application helps Users get the audio of social media and YouTube videos in 
 I love listening to music, and some of this music is in video form. Except for using Spotify, Audiomack, etc., my next option is music videos. Hence, when the need to build a Portfolio Project came up, I decided to use the ample opportunity to satisfy my want.
 
 Live Preview: [Ordioplay Live Demo](https://ordioplay.pythonanywhere.com)
+
 Final Project Blog Article: [Read the Blog Post](https://www.linkedin.com/posts/chima-gideon-nweke-52450b118_developers-softwareengineers-alx-activity-7242242970991677441-dxbv?utm_source=share&utm_medium=member_desktop)
+
 My LinkedIn Profile: [Chima Gideon Nweke](https://www.linkedin.com/in/chima-gideon-nweke-52450b118/)
 
 # Installation
