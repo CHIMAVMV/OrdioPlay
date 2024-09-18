@@ -10,11 +10,12 @@ My LinkedIn Profile: Chime Gideon Nweke
 Installation
 To install Ordioplay, follow these steps:
 
-$ git clone 
+$ git clone
 $ cd Ordioplay
+
 You can now download and install the dependencies using pip as:
 
-pip install virtualenv
+(pip install virtualenv)
 pip install Flask
 Note - If I do not mention the specific version of a package, then the default latest stable package will be installed.
 
