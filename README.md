@@ -22,7 +22,7 @@ You can now download and install the dependencies using pip as:
 pip install virtualenv
 pip install Flask
 ```
-Note - If I do not mention the specific version of a package, then the default latest stable package will be installed.
+> **Note** - If I do not mention the specific version of a package, then the default latest stable package will be installed.
 
 ## Usage
 To start using Chimordioplay, run the code below while in the project Parent directory
